@@ -31,3 +31,5 @@ button1 = Button(root, text = "Generate Random Word", command = gen)
 button1.place(relx = 0.5, rely = 0.4, anchor = CENTER)
 label1.place(relx = 0.5, rely = 0.5, anchor = CENTER)
 root.mainloop()
+
+#https://drive.google.com/file/d/1RmQ1LglzWTJJQ_QB-hmL_VrAU4RtoSFN/view?usp=sharing
